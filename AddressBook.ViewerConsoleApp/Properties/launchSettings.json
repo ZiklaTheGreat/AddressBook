@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AddressBook.ViewerConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--input employees.json --name bach --main-workplace \"Fakulta riadenia a informatiky\" --position zamestnanec --output emps.csv"
+    }
+  }
+}
